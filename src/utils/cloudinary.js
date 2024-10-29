@@ -1,4 +1,3 @@
-import { log } from 'console';
 import {v2 as cloudinary} from cloudinary
 import fs from 'fs' 
 
